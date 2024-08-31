@@ -1,0 +1,47 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.swp
+*~
+
+# Build and Dependency Directories
+node_modules/
+build/
+dist/
+vendor/
+.next/
+
+# Compiled Files
+*.class
+*.o
+*.pyc
+
+# Log Files
+*.log
+
+# Environment and Configuration Files
+.env
+config.ini
+
+# Temporary Files
+*.tmp
+*.temp
+
+# Package Files
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Database Files
+*.sqlite
+
+# Backup Files
+*.bak
+*.backup
